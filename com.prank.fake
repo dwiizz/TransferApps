@@ -1,0 +1,131 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Mang Rysa Kim (Mr. Kim)",
+      "image_url": "file:///android_asset/image/kim.jpeg",
+      "video_url": "footbal",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Kim Seok Jin",
+      "image_url": "file:///android_asset/image/jin.jpg",
+      "video_url": "footbal",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Jeon Jungkook",
+      "image_url": "https://asset.kompas.com/crops/y8YrNSENHec4V6IXawkBU_BLwSM=/0x0:900x600/750x500/data/photo/2019/11/04/5dc021dcbb270.jpeg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower.mov",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Park Jimin",
+      "image_url": "file:///android_asset/image/jimin.jpg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Min Yoon-gi (Suga)",
+      "image_url": "https://assets.pikiran-rakyat.com/crop/0x17:727x768/x/photo/2020/06/18/317448455.jpg",
+      "video_url": "footbal",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Kim Tae-hyung (V)",
+      "image_url": "file:///android_asset/image/v.jpg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower.mov",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Jung Ho seok",
+      "image_url": "file:///android_asset/image/jhope.jpg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Kim Nam Joon",
+      "image_url": "file:///android_asset/image/rm.jpg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },  {
+      "id": 8,
+      "name": "Kim Jong In",
+      "image_url": "file:///android_asset/image/in.jpg",
+      "video_url": "footbal",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 9,
+      "name": "Kim Jun-myeon - Suho",
+      "image_url": "file:///android_asset/image/suho.jpeg",
+      "video_url": "footbal",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 10,
+      "name": "Byun Baek-hyun",
+      "image_url": "file:///android_asset/image/hyun.jpeg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower.mov",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+    },
+    {
+      "id": 11,
+      "name": "Oh Se-hun",
+      "image_url": "file:///android_asset/image/hun.jpg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+    },
+    {
+      "id": 12,
+      "name": "Park Chan Yeol",
+      "image_url": "file:///android_asset/image/park.jpeg",
+      "video_url": "footbal",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+    }, {
+      "id": 13,
+      "name": "Kim Min Seok",
+      "image_url": "file:///android_asset/image/seok.jpg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+    },
+    {
+      "id": 14,
+      "name": "Kim Jong Dae ",
+      "image_url": "file:///android_asset/image/jong.jpg",
+      "video_url": "footbal",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+    }
+  ]
+
+}
